@@ -1,0 +1,1001 @@
+nombre,edad,ciudad,numero_telefono,tipo_identificacion,numero_identificacion
+Palmira Ángel Campos,30,Cartagena,+34 886 25 70 65,TI,9960160428
+Jessica Granados Iborra,31,Pasto,+34 831 037 053,CE,8232048207
+Jose Manuel Quero Valverde,52,Manizales,+34877 815 541,CC,1512202741
+María Fernanda del Carro,52,Villavicencio,+34987 52 90 99,TI,2768962787
+Abigaíl Tur Dominguez,18,Villavicencio,+34 727 078 445,CE,810097317
+Joel Benavent-Ibarra,64,Cúcuta,+34987 10 01 25,CE,5684086102
+Benjamín Quero Reyes,78,Santa Marta,+34 728 48 99 60,TI,8539632851
+Oriana Sancho Pomares,31,Bogotá,+34 874 80 62 35,CC,8830221272
+Dani Espada,57,Barranquilla,+34 981 772 417,CC,1661054079
+Vera Romero Galindo,20,Bogotá,+34820 890 953,TI,4647474230
+Ángel Quirino Sacristán Carro,66,Barranquilla,+34920 900 275,CE,7119135410
+Manolo Vizcaíno Bermudez,42,Villavicencio,+34823751078,CE,56170549
+Nayara Jover Sosa,49,Barranquilla,+34 827 59 52 15,TI,8953595031
+Eutimio Serra Busquets,26,Santa Marta,+34 935258993,TI,6613629514
+Hilario Lalo Borja Miranda,19,Bogotá,+34727122622,CE,4743855144
+Régulo de Vargas,28,Bucaramanga,+34921318755,CC,3774687020
+Nadia Salgado,46,Villavicencio,+34 877 414 680,CC,3339763893
+Timoteo Figueras Mínguez,19,Pasto,+34 924278643,CE,5909340078
+Jorge Apolinar Lasa Merino,37,Montería,+34827 02 14 39,TI,7985980979
+Miguela Solsona Huerta,21,Pasto,+34 984236251,TI,331127087
+Albino Torrijos,22,Pereira,+34982 136 373,CC,2890831325
+Celso Alberola Ripoll,55,Neiva,+34 932 26 94 08,TI,9873233231
+Nicolasa Palacios Priego,69,Ibagué,+34882 604 120,TI,2849131457
+Hortensia Vilma Ferrera Castilla,65,Cali,+34845 290 421,CE,4681458230
+Florencia Camino Heredia,37,Cúcuta,+34 972609353,TI,4838957602
+Sosimo Lucho Carrión Ochoa,77,Neiva,+34972711232,CC,7248473612
+Octavio Portillo Maza,27,Pereira,+34972 075 163,CC,7471044336
+Reyes Vizcaíno Ávila,20,Pereira,+34828 027 872,CE,4094659773
+Tadeo Iglesias Zurita,56,Pereira,+34 845 00 51 44,TI,843843600
+Edelmira Barranco,36,Barranquilla,+34947 561 602,CC,5952772840
+Adelardo Chema Perea Cuevas,70,Bucaramanga,+34 704250432,CC,7479793283
+Luz Escolano Luís,39,Ibagué,+34869776934,CC,9197721535
+Benigno Berrocal Sebastián,67,Santa Marta,+34 855 870 487,CC,2279228583
+Manu Cebrián Elorza Mínguez,29,Barranquilla,+34 845517523,TI,8993084850
+Geraldo Lillo Baena,19,Cartagena,+34 821 771 686,TI,5280592331
+Ruben Cecilio Vélez Laguna,77,Santa Marta,+34 984490091,CC,1526557198
+Melania Ibarra Girona,72,Ibagué,+34726 858 914,CC,9511707738
+Valero Ríos-Sosa,56,Medellín,+34 886 92 47 36,TI,9346296037
+Paz Azcona,72,Cartagena,+34972 289 231,CE,5096760189
+Joaquina Villalba Gabaldón,20,Bogotá,+34 983 48 51 15,CE,6712639285
+Félix Perelló González,43,Cali,+34977622481,TI,4679231111
+Fabricio Che Blasco Pareja,23,Bogotá,+34926503257,CC,5843503666
+Berta Llorens Domingo,37,Cartagena,+34 828 637 574,CC,7289785640
+Andrea Galindo-Elías,63,Medellín,+34 879 445 522,CC,6263753249
+Juan Luis Calderón Cortes,18,Manizales,+34 941 010 518,CE,1833356045
+Consuelo Guzmán Sola,19,Pasto,+34 888717654,TI,3095967364
+Reina Quiroga Alcaraz,21,Montería,+34976 27 83 87,CE,1917773815
+Marcial Salvà Bou,63,Medellín,+34 941 12 11 72,CC,6887138041
+Trinidad Seguí-Juárez,26,Cúcuta,+34820409899,CC,7619124095
+Sigfrido Crespo Vaquero,71,Ibagué,+34 827 93 22 26,CE,9766006672
+Clotilde Barrios Nieto,69,Manizales,+34 836 71 21 68,CC,9327876899
+Gabriela de Trujillo,77,Manizales,+34 863 417 892,CC,85513653
+Rodolfo Otero Agullo,55,Medellín,+34 849099435,TI,1635620232
+Renata Adora Baquero Oliva,75,Santa Marta,+34 876 88 70 36,TI,6471537479
+Ciríaco Castro Ramón,49,Bucaramanga,+34883247399,CE,2193694566
+Esmeralda Mendez Bustamante,75,Manizales,+34842433616,CE,6494749808
+Jordi Bilbao-Pujadas,71,Bucaramanga,+34 945 483 568,CC,5385084703
+Julia Bastida Méndez,61,Pereira,+34 803899023,CE,4777244719
+Galo Cardona,22,Villavicencio,+34 861 36 71 63,CE,4018061513
+Gastón Gabino Escribano Vicente,77,Barranquilla,+34823 620 406,TI,9978470084
+Alejandro de Cuéllar,32,Cartagena,+34 887 683 090,CC,2560412949
+Anselmo Fábregas Tolosa,29,Neiva,+34 707980853,CE,8286251688
+Clotilde Prieto,46,Pasto,+34 881 673 850,TI,1419118336
+Emperatriz Campos Castro,20,Barranquilla,+34 981 93 62 14,CC,7288750694
+Eustaquio Valenciano-Tomás,65,Bogotá,+34 924 97 23 54,CE,6983720731
+Saturnina Manjón,52,Montería,+34 947 12 41 90,CE,8018148739
+Inés Téllez,28,Pereira,+34879 08 52 92,TI,6567823291
+Amor Mohamed Robledo Salinas,66,Ibagué,+34951 01 52 92,TI,1573852444
+Jafet Morata Reig,60,Barranquilla,+34924808952,CE,9260424802
+Matilde Ugarte-Tamarit,40,Cali,+34 885 080 268,CC,9130835214
+Teodora de Castañeda,72,Bogotá,+34841854007,CC,9331770649
+Kike de Múgica,55,Pasto,+34 825 21 32 62,CC,6068492191
+Luisa Arana Navarrete,46,Villavicencio,+34 900 00 63 49,CC,8677953796
+Luz Gras Casals,58,Cali,+34 871138488,TI,4075823263
+Ruben de Casanovas,42,Montería,+34 824845726,CE,4577204651
+Gabriela Valenciano Adadia,24,Cúcuta,+34926 500 640,TI,406127250
+Mónica Roura Figueras,19,Villavicencio,+34922 26 66 85,CE,6263612175
+Adriana Álvaro Macías,79,Cúcuta,+34875 900 874,CE,1871601371
+Aureliano Leiva Espinosa,59,Neiva,+34 888 79 81 30,CE,4693683567
+Ezequiel Chamorro Roma,60,Cartagena,+34 824127269,TI,4121398559
+Arsenio Lucena Iñiguez,48,Cartagena,+34 874 66 37 11,TI,864507743
+Eugenia Mamen Machado Portero,71,Montería,+34986236473,TI,6745404431
+Aura del Lladó,54,Pasto,+34673 977 323,CC,7793266845
+Rubén Paz Ballester,61,Bucaramanga,+34 885 249 988,CC,4166238337
+Modesta Pedrosa Bilbao,66,Montería,+34 947921905,CC,7817498158
+Victoria Acosta Manzanares,71,Cartagena,+34 742 22 37 05,CC,603626101
+Eusebio Fuster Mata,22,Cúcuta,+34812 128 405,CC,2870403807
+Azahar Sans Canals,51,Pasto,+34884 37 38 03,TI,6669815819
+Íngrid de Cañas,26,Pasto,+34 927 707 007,TI,7845867470
+Carla Andrade Planas,28,Cartagena,+34806581690,CE,5399985690
+Plácido de Cámara,45,Pasto,+34842121969,TI,7438500863
+Darío Benavente Alberola,36,Pasto,+34 845387883,CC,5909590809
+Abril Jover Gonzalo,69,Medellín,+34920 53 11 89,CC,9199579413
+César Diaz Lobato,72,Neiva,+34887030572,CE,9798014552
+Amarilis de Cuervo,60,Cúcuta,+34800 444 088,CC,6514990476
+Trinidad Peinado Solé,75,Cali,+34847 65 10 42,CE,9146671944
+Silvestre Jose Luis Ortuño Soler,74,Cartagena,+34 879 92 71 91,TI,8860545291
+Gisela Jaén Cazorla,61,Neiva,+34 973 903 638,CE,3381922977
+Vilma Polo Anaya,61,Santa Marta,+34 876 21 16 85,TI,9861083099
+Vidal del Cuenca,29,Villavicencio,+34981 47 12 84,TI,8725407154
+Mohamed Ramón Garcia,59,Cali,+34 846392121,CE,5909540927
+Ricarda Blázquez Domingo,61,Manizales,+34873312673,CC,2495033448
+Inmaculada Sabater-Molins,29,Medellín,+34924 86 77 73,CC,5914350845
+Encarnacion Quevedo Segarra,24,Santa Marta,+34609 249 835,CE,4814004444
+Segismundo Neira,49,Santa Marta,+34 968 52 94 74,CE,8568649581
+Chus Vallejo Escolano,70,Medellín,+34 960262903,TI,6287942586
+Adriana Navas Paz,71,Medellín,+34946229908,TI,332449645
+Inmaculada Lastra Noriega,31,Bucaramanga,+34972 64 75 22,CE,4047416462
+Plácido Llopis-Garriga,23,Medellín,+34827 237 327,CC,409597311
+Olga Escudero Buendía,43,Villavicencio,+34 822162081,CC,1083581979
+Gilberto Jose Ramón Pedrosa Casado,47,Cúcuta,+34 747 45 09 51,CC,6474668659
+Toribio Renato Buendía Albero,62,Pereira,+34847182709,TI,5702323938
+Gabriel Acedo-Piñol,66,Barranquilla,+34 879521617,CE,6628858473
+Anna Pereira,72,Medellín,+34 988359811,CE,8646197744
+Saturnino Barrera,22,Pasto,+34 852 045 376,CC,7455953046
+Tecla Rodríguez Santiago,50,Ibagué,+34723 59 60 41,TI,6624023289
+Maxi Cuevas Cueto,31,Bucaramanga,+34 824502965,CC,259498414
+Rosenda Chaparro Morell,70,Santa Marta,+34 920 703 020,CC,1138956803
+Adolfo Pedrosa-Nebot,26,Cúcuta,+34 823 31 19 16,TI,5023904022
+Anita Bartolomé,72,Pasto,+34 979 045 085,CE,9044663073
+Isaura Ochoa Gaya,66,Bucaramanga,+34803 26 96 56,TI,199843667
+Esteban Barros Fuster,50,Cartagena,+34 925 150 617,CE,3648460732
+Juan Antonio Villar,75,Pereira,+34921029634,CC,679015317
+Cebrián Mateo Villar,69,Cali,+34 721 472 848,CC,6370540798
+Florentina Aparicio Soria,37,Pereira,+34949 575 446,CC,621315681
+Fabiana Mateos Torres,35,Pereira,+34 981023296,TI,3516242689
+Ramiro del Tamayo,32,Cartagena,+34 877 372 701,TI,7857672909
+Reinaldo Barros Diez,22,Santa Marta,+34 976 98 15 78,CC,7658711270
+Rico de Lluch,47,Pereira,+34 987 869 206,TI,1941088673
+Valentina Tomé Lucena,21,Montería,+34803 564 197,CC,6831978364
+Julia Chacón Prado,69,Cali,+34883 847 913,CC,8977570557
+Yésica Caridad Cuéllar Cruz,30,Medellín,+34 828 41 95 40,TI,5101765809
+Anabel Fernández Tello,39,Villavicencio,+34886218933,CC,9796999519
+Lorenzo Abril Casado,49,Cúcuta,+34 824879633,CE,1000058758
+Nicolás Tomé Tamarit,71,Pasto,+34 883 077 331,CC,504697648
+Chita Duque Ferreras,40,Montería,+34842 31 79 07,TI,3226587363
+Carlito Solís Ródenas,77,Barranquilla,+34964826876,CE,1699401959
+Lino Santiago,25,Neiva,+34713 386 996,CE,9577151984
+Florentina Iglesia Pérez,70,Montería,+34986 201 131,CE,7636208047
+Anna Cañas Chacón,64,Barranquilla,+34823602827,CC,908148613
+Lorenzo José Manuel Navarrete Muro,61,Barranquilla,+34 944 027 304,CE,823288678
+Sandra Rueda Tomas,79,Cartagena,+34874 48 64 52,TI,2400266751
+Blanca Acosta-Cuervo,79,Villavicencio,+34 983 494 853,CE,7334582888
+Teófilo Pedrero Fuentes,35,Santa Marta,+34871 29 64 76,CE,5642937208
+Ruperto del Olivé,64,Bucaramanga,+34 944 775 421,CC,2383219839
+Mercedes Gallart Carreño,79,Cartagena,+34 849024535,TI,203589315
+Esther Martorell-Melero,24,Medellín,+34 861 866 424,CC,5677565099
+Gaspar de Amador,56,Bogotá,+34943 78 19 50,CC,892050397
+Eugenio Cruz,35,Ibagué,+34873 49 47 97,CC,9844397529
+Severino del Gomez,67,Pereira,+34 978 18 67 20,CE,5872457043
+Agustín Bas Gomez,45,Villavicencio,+34 942 88 77 49,TI,517263929
+Donato Reig Morillo,26,Santa Marta,+34 849 07 62 66,CE,402440858
+Hernán Hilario Mendizábal Corominas,68,Santa Marta,+34 925503771,CE,1431820217
+Chuy Palacios Pozo,52,Barranquilla,+34886 664 477,CC,9308902770
+Rocío Herminia Rico Solé,76,Bucaramanga,+34 944 16 43 05,CC,2603012550
+Valero Mir-Somoza,78,Manizales,+34 873 239 277,TI,348786928
+Amalia Elena Estevez Llabrés,51,Barranquilla,+34882 58 88 11,TI,475988265
+Donato Prieto-Esteban,49,Bogotá,+34 876751153,CE,9845891542
+Flor Anastasia Giralt Jaén,48,Santa Marta,+34 845263196,TI,6922590842
+Carmen Molins Machado,68,Bucaramanga,+34928129634,TI,606552314
+Estrella del Espinosa,58,Villavicencio,+34 807 85 08 58,TI,6480662840
+Juan Manuel Lledó Ojeda,37,Santa Marta,+34922 51 81 10,TI,889365177
+Rosario Rojas-Blázquez,60,Bucaramanga,+34841 16 31 87,TI,454845451
+Bienvenida Vendrell Gracia,61,Montería,+34 922177464,CC,9880730295
+Candela Cervantes Gámez,56,Bogotá,+34820 235 545,CE,3243497537
+Reyes Perera,56,Pasto,+34949 942 989,CE,5018975854
+Delia Tormo Amor,36,Barranquilla,+34 920 131 543,CC,2518005881
+Constanza Gil,39,Bogotá,+34927 51 39 53,CC,1357394419
+Estela Carlos-Garriga,43,Medellín,+34874 40 36 28,CC,1542802488
+Vasco Parejo-Pino,36,Bucaramanga,+34 946 370 256,TI,9523736489
+Hortensia Pazos Cid,40,Pereira,+34 843806757,TI,8379248131
+Clara Blazquez Viñas,69,Pasto,+34933382963,TI,6550741542
+Encarnación Mir Barral,30,Montería,+34 875 730 660,TI,466350227
+Lucho Nevado Barreda,70,Santa Marta,+34 723990190,TI,4791164742
+Rosenda Oliver Collado,69,Medellín,+34727 76 09 77,CC,8666669404
+Ramona Pascuala Cabeza Gallart,44,Montería,+34926051721,CC,7943098809
+Albina Falcó-Navas,21,Montería,+34810 544 936,CC,8028250708
+Juan José del Pulido,43,Cúcuta,+34 885748656,CC,8222256616
+Eligio Cardona,24,Barranquilla,+34 888038946,CE,8193790156
+Leocadia Paniagua Villanueva,31,Barranquilla,+34844 40 19 50,CC,8685120836
+Constanza Marcos-Romeu,56,Neiva,+34 848532790,CE,5113485173
+Geraldo Acero Quevedo,67,Ibagué,+34 902847426,TI,3291133558
+José Arroyo-Diéguez,28,Bogotá,+34 980303848,CE,4925359037
+Mateo Valbuena,46,Medellín,+34 872 983 580,CC,1086309883
+Amada Mesa Pereira,56,Cartagena,+34 937 659 854,TI,1329386720
+Cruz Morell,59,Cali,+34 822 28 05 26,CC,6663364311
+Anna Rodriguez-Ferrera,53,Barranquilla,+34 844 480 712,CC,2349264512
+Isa Victoria Córdoba Santos,80,Pasto,+34921375474,CE,7674133943
+Norberto Sureda-Cuesta,47,Montería,+34973 51 23 60,TI,6538909608
+Luisa de Figueroa,56,Bogotá,+34981 850 774,TI,6224351736
+Cecilia Agustí Amador,35,Montería,+34873998978,CE,9944811286
+Ramón Diaz Borja,64,Cúcuta,+34874 76 14 06,CE,1080320930
+Toribio Batalla Barral,69,Medellín,+34 842 97 73 15,CE,8128669761
+María Belén de Herrera,70,Neiva,+34 841879318,TI,5899464262
+Eligio Benet Ramírez,64,Ibagué,+34 922 933 530,TI,3213415220
+Ileana Gual-Pineda,24,Villavicencio,+34825 374 367,CC,3135809364
+Julia Ferrán Cid,59,Manizales,+34 944 77 28 33,CC,2979645672
+Consuelo Monreal Coca,72,Manizales,+34 988 88 78 15,CE,866246630
+Griselda Olivera Fonseca,32,Cali,+34 984 521 630,TI,8398119465
+Paula Ochoa Ibarra,51,Barranquilla,+34926 882 310,CE,5589342116
+Fanny Amor Somoza Gracia,36,Pasto,+34841 929 334,CC,4034989531
+Nayara Lledó Pastor,45,Cali,+34 923 72 11 67,CC,7998566883
+Armida Sáenz Lamas,35,Cúcuta,+34 875 817 893,CC,5848457842
+Felipa Catalina Quintana Salcedo,53,Pasto,+34720102352,TI,8952750839
+Rosendo Verdú Rebollo,42,Bogotá,+34 918 65 33 83,TI,3666290867
+Sandalio del Mayoral,45,Pasto,+34 821 789 618,TI,6741038618
+Eusebia Criado Sanabria,58,Barranquilla,+34881 351 329,TI,2303816438
+Marcial Zacarías Andrés Madrid,37,Cali,+34974471950,TI,7697268404
+Jose Ramón Toni Gibert Mosquera,75,Bogotá,+34 876590698,TI,3641535672
+Arturo de Cardona,48,Cartagena,+34979 170 966,TI,427191651
+Abigaíl Juliana Galiano Valenciano,69,Santa Marta,+34874 920 215,TI,7088798672
+Loreto del Sierra,28,Ibagué,+34 656618497,CE,2689187468
+Graciano Contreras Perez,57,Villavicencio,+34927 34 92 03,TI,4459363032
+Heraclio Palomares Tirado,43,Neiva,+34 986 093 245,CE,1359758840
+Ester Valentín-Castejón,34,Pasto,+34 730460767,CC,7152280768
+Vicente Muñoz Gomez,41,Pereira,+34 874 21 53 75,CE,1325607034
+Daniela Galindo Roldan,25,Neiva,+34800123668,TI,4767007907
+Angelino Alberto Viana,30,Santa Marta,+34 835 67 09 82,CC,7230488482
+Aránzazu Rosales Figuerola,55,Bogotá,+34 926 71 36 01,CE,8652996098
+María Cristina Verdú Vilanova,68,Santa Marta,+34 848 559 285,CC,3374025214
+Chucho Reina Rovira,41,Manizales,+34 979171514,TI,7860125196
+Gisela Perea Izaguirre,68,Medellín,+34 878 682 729,CC,9102193346
+Albano Zurita Perera,29,Cartagena,+34 828 989 355,CE,8687752407
+Tania Zaragoza Cánovas,36,Barranquilla,+34820 55 22 87,TI,364406281
+Melisa Fortuny Marqués,55,Pasto,+34846 94 98 85,CC,3695406846
+Pepita Quiroga Ripoll,60,Pereira,+34884 329 335,CC,7296644290
+Tecla Peña Luján,36,Cali,+34 844 39 73 03,TI,1770646415
+Estela de Requena,63,Bogotá,+34844312329,CE,9004080808
+Isabela Pedrosa Sainz,60,Villavicencio,+34 946694806,CC,9049527547
+Goyo Ferrando Contreras,71,Barranquilla,+34 737965807,CC,9247821555
+Lorena Coello Verdugo,30,Santa Marta,+34 976 638 954,TI,6630457688
+Jenny Barbero Ramos,76,Barranquilla,+34 973 70 47 14,CC,9137961426
+Quirino Tolosa Falcó,32,Cartagena,+34985 17 70 54,TI,5425035244
+Luz Tejedor Trillo,52,Ibagué,+34 902 236 916,CC,1427345857
+Estela Isabela Camacho Franch,35,Ibagué,+34920 57 05 08,TI,7413739604
+Abigaíl Polo Aznar,24,Bucaramanga,+34 987 89 74 85,CC,4878929497
+Elisa Bosch Herrero,18,Pereira,+34 986 909 710,CC,272349552
+Curro Rodrigo Segarra Jover,18,Neiva,+34945 712 514,CC,1096624277
+Florinda Benet León,61,Neiva,+34942785198,CC,1324024659
+Trinidad Font Quero,38,Ibagué,+34 803 92 30 31,CC,4150773352
+Paula Flores Isern,41,Bogotá,+34 988 177 642,TI,6706110171
+Augusto Mascaró Roldan,78,Villavicencio,+34 975 52 60 05,CE,1731018042
+Francisca Cruz Bonilla,28,Cúcuta,+34872228049,CC,6109685178
+Marcelo Carnero-Palomino,45,Villavicencio,+34978 92 99 37,CE,684590489
+Marcelo Muñoz Godoy,23,Villavicencio,+34 871537563,CE,3866669892
+Gloria Consuela Jimenez Moliner,50,Villavicencio,+34975 680 068,CC,2821181081
+Eustaquio Ortega Vidal,72,Bogotá,+34845 957 806,TI,596950471
+Mar Luz Arregui,47,Cúcuta,+34 977762286,CE,7851779601
+Violeta Sastre Botella,20,Manizales,+34971 280 698,CC,1415857441
+Emigdio Federico Tejada Barrera,29,Bogotá,+34944191607,CE,1488875986
+Araceli de Sarabia,27,Bucaramanga,+34850 66 96 68,TI,5055120460
+Obdulia Manrique Anguita,80,Cúcuta,+34 939264709,TI,5722299194
+Vicenta Flavia Palomares Pedrero,77,Medellín,+34923651781,CE,1888102501
+José del Carreras,63,Bogotá,+34924 271 797,CC,8687141765
+Celia Tejada Fábregas,22,Manizales,+34971629086,CC,4520196140
+Aníbal Téllez Salvà,49,Barranquilla,+34872856684,CC,101238770
+Gustavo Lobo Borrell,20,Medellín,+34849 28 48 02,CE,9688574595
+Modesta Calleja Vara,23,Cali,+34 901 47 62 79,CC,3222987759
+Aránzazu Paula Barrio Iniesta,29,Villavicencio,+34 879 67 70 27,CE,6249371905
+Simón del Jiménez,57,Pasto,+34 846 82 37 00,TI,532097930
+Delfina Álvaro,51,Santa Marta,+34 876 664 906,CC,7665135705
+Evelia de Cabeza,69,Medellín,+34 871 983 299,TI,1157397762
+Florentino Raya Arcos,73,Barranquilla,+34944 621 957,TI,3669770174
+Aurelio Alfredo Sánchez Prat,28,Pereira,+34844 27 82 65,CC,4783624847
+Bibiana de Otero,55,Cartagena,+34 885 562 477,CE,9390284096
+Maxi Adadia Lloret,18,Villavicencio,+34 975 85 31 91,TI,9355244846
+Vilma Lledó,25,Medellín,+34 976861456,TI,1313087872
+Jesús Conde Cañete,46,Manizales,+34876 051 501,CE,373202619
+Nieves del Royo,37,Bogotá,+34979980633,CC,2589568984
+Leire Águila-Velázquez,78,Villavicencio,+34 941 59 49 40,TI,7014470237
+Jovita Guardiola-Guardia,21,Cartagena,+34 924 106 233,CC,2965233521
+Francisco Caparrós Bernal,74,Ibagué,+34 828444717,CE,3812033984
+Cruz Iniesta-Román,64,Manizales,+34 978 166 366,TI,479244408
+Alonso Hernando Fernández,65,Cúcuta,+34 920006350,TI,1705737676
+Valeria Ramos Jódar,69,Cali,+34 900084141,CE,3820944040
+Asdrubal de Arias,59,Santa Marta,+34 872 045 348,CC,4483918228
+Julieta Marin Catalán,61,Barranquilla,+34979 525 698,TI,9940892463
+Juan Molina Perelló,71,Cúcuta,+34 948 81 77 94,CC,9945555047
+Amor Lago-Gallego,46,Villavicencio,+34 943513422,CC,496660841
+Lucas Hipólito Gálvez Quiroga,31,Medellín,+34 978 60 82 45,CC,8855984145
+Dalila Cisneros Alegre,71,Pereira,+34926 59 48 23,TI,7049421540
+Salomé de Becerra,35,Pereira,+34823 28 77 33,CE,7244228454
+Melania Acevedo Montero,78,Pasto,+34 841 14 01 07,CE,8671449920
+Encarnación Miralles Noguera,32,Cali,+34803219941,CE,8475678262
+Narciso Garay Cal,61,Manizales,+34974 648 626,TI,7841253053
+Carlito Marin Cervantes,48,Bogotá,+34923 94 66 17,CC,851121242
+Diego Ramiro Pareja Ferrer,57,Santa Marta,+34946 825 917,CE,8160206634
+Valentín Quintana,61,Bucaramanga,+34 717640198,TI,4180266171
+Corona Reguera Revilla,45,Bucaramanga,+34 721322145,CE,3067534362
+Amarilis Espada Caro,37,Cali,+34 846727615,CC,892583255
+Desiderio Montaña Aguado,22,Pereira,+34 841 637 450,CE,1180295433
+Santiago Barroso Llorente,70,Pasto,+34947 662 372,CE,6941796433
+Remedios Ballester Pedraza,35,Santa Marta,+34 971 796 813,CC,2164331670
+Baudelio Toledo Castrillo,77,Barranquilla,+34849 272 337,CC,7223084398
+Juan de Cabezas,27,Barranquilla,+34 985670992,TI,2248923589
+Rosalinda Naranjo Diéguez,34,Pereira,+34 985 737 955,CE,7578215780
+Magdalena del Aliaga,56,Santa Marta,+34 914 20 13 43,TI,5894808473
+Eric Jaén Álvarez,40,Santa Marta,+34823530116,CC,6100083003
+Abril Tirado Plana,78,Pasto,+34849553100,TI,7244186936
+Claudio Grande Asensio,55,Manizales,+34828 854 280,TI,2749884757
+Ciríaco Guzman Miguel,21,Pereira,+34 960559189,TI,7596676567
+Hector Viña Sarmiento,51,Cali,+34 944867276,CC,9988494555
+Dafne Alemán Ripoll,40,Santa Marta,+34880 008 065,CE,5851417689
+Florentina de Francisco,42,Pereira,+34925 71 43 04,CE,9458402289
+Renata Blanes Millán,40,Ibagué,+34 945 94 99 47,TI,8947073315
+Paulina Otero Abad,58,Villavicencio,+34 887 028 182,CC,8158348655
+Cipriano Fernández Piquer,71,Neiva,+34 976808745,TI,5157725378
+Salud Guiomar Barceló Riba,38,Bogotá,+34877 232 596,CC,7863011533
+Adelia Tere Figueroa Barceló,55,Medellín,+34987 73 00 81,CC,4711557726
+Jovita Carmona Manjón,37,Pasto,+34 826 73 91 66,CE,9700723342
+Jose Ramón Gomez Cadenas,72,Cúcuta,+34928709768,TI,641811447
+Armida Salvador Cardona,30,Villavicencio,+34883 04 11 23,CE,2619311603
+Cleto Pla Ureña,26,Cartagena,+34 988 39 22 89,CC,2119940008
+Eustaquio Sánchez,32,Bogotá,+34986 82 91 56,TI,9726161113
+René Carbajo Arco,51,Ibagué,+34941226059,TI,3029242287
+Custodio Niño Galán,51,Cúcuta,+34876 105 472,CC,1157775935
+Jose Francisco Victoriano Carreras Vizcaíno,50,Ibagué,+34873 11 33 39,CC,4696748326
+Fermín Doménech Somoza,47,Cali,+34 974507298,CE,7547566806
+Jordi Bello Vilalta,55,Villavicencio,+34920881540,CE,773028001
+Rosalinda Bartolomé Madrigal,73,Manizales,+34 852508512,CC,5422463867
+Vanesa Diez Marqués,68,Manizales,+34 806 10 62 27,TI,1661077188
+Olalla de Buendía,30,Cali,+34921477096,CE,5968725747
+Jeremías Pedrero Montalbán,76,Pereira,+34862623905,TI,4330045334
+Leonel Fiol,31,Villavicencio,+34982795035,TI,8622618273
+Lucio Lumbreras Palomar,37,Montería,+34978 78 25 26,CC,9066204326
+Valeria Aguirre Coca,77,Cartagena,+34844631895,TI,5135720064
+Rosendo Vilanova Ariño,32,Cartagena,+34928 65 51 49,TI,7215069773
+Arsenio de Méndez,30,Manizales,+34900 436 284,TI,2928988583
+Chus del Antúnez,48,Santa Marta,+34881 85 02 87,CC,1609294242
+Sosimo Mas-Aguado,42,Santa Marta,+34974556737,CE,2318138786
+Merche de Aramburu,75,Neiva,+34746803874,CC,3280489652
+Aurelio Mate Ramis,21,Montería,+34 883302473,CE,670322160
+Emperatriz Bauzà-Lucas,24,Montería,+34820 263 381,CE,2069845288
+Ramiro Carnero Bustos,57,Medellín,+34 876880592,CE,5999096638
+Irene de García,54,Bucaramanga,+34 936 57 28 78,CC,6813356707
+Espiridión Larrañaga Ferrer,59,Manizales,+34925765168,CC,9551687305
+Natalia Varela,60,Manizales,+34630789832,CE,2929670150
+Edelmira Arce Perales,35,Pereira,+34934083444,CE,8560561143
+Dionisia Ferrer-Recio,75,Cúcuta,+34 828 97 46 22,CC,2006182708
+Bonifacio Cardona Ibañez,64,Bogotá,+34 846 510 425,TI,1972919026
+Gaspar Seco Álamo,24,Cartagena,+34834 85 61 34,TI,291315701
+Hernando Baeza-Anaya,24,Ibagué,+34847848124,TI,87970529
+Clarisa Peña Castrillo,23,Neiva,+34 849101242,CC,924144560
+Ágata Cabeza,72,Cali,+34 881 79 17 86,CC,5196698719
+Maricruz Hidalgo Ribes,44,Cúcuta,+34901239057,TI,4080961009
+María Cristina Hernandez Borja,74,Manizales,+34855 99 49 42,TI,4579160750
+Constanza Vilar Figueroa,70,Neiva,+34980 74 81 24,CC,4518824164
+Lorenzo Oliva-Vaquero,42,Pasto,+34 848381521,TI,5402319396
+Leonardo Sola Romeu,50,Cartagena,+34807178456,CE,5803857703
+Sancho Calisto Jaén Escamilla,65,Cali,+34 848 034 956,CC,2076585248
+Bernardita Carreño Macias,32,Bogotá,+34 825820070,TI,9746881947
+Belen Barón Palacio,32,Pereira,+34800 513 889,CC,2914265849
+Juan Manuel Bauzà Guardia,78,Neiva,+34873 769 282,TI,7930474197
+Sebastián Escolano Pino,34,Barranquilla,+34 824 136 714,CC,6888825287
+María Villanueva Cobo,31,Neiva,+34 925689795,CE,3528624995
+América Álvaro Barral,21,Cúcuta,+34 823 68 82 55,CC,4159149585
+Iván Díaz-Salas,40,Bucaramanga,+34 845 575 609,CC,9703271451
+Telmo Trillo Abad,21,Pereira,+34 817826472,CC,2697116156
+Araceli Corbacho Navas,20,Montería,+34 984 833 304,CC,6241284601
+Víctor Rodriguez Castells,20,Santa Marta,+34 872616694,CE,307196079
+Duilio Castelló Salcedo,72,Santa Marta,+34 825 58 48 70,CC,2947562611
+Cornelio Ordóñez-Escalona,71,Medellín,+34 846 591 341,CC,6248547024
+Octavio Bartolomé Campos Cárdenas,19,Bucaramanga,+34 921 50 84 10,TI,7491383059
+Toño Terrón Bas,36,Medellín,+34911 769 341,TI,2239010630
+Angélica León Morcillo,67,Pereira,+34 979753335,TI,8410887847
+Salud de Pomares,45,Ibagué,+34844751591,CE,7426313928
+Gloria Susana Noguera Velasco,34,Pasto,+34 978365890,CE,1907725830
+Samu Vendrell Tamarit,40,Santa Marta,+34980331865,CC,8379775365
+Mariana Garmendia Borrell,30,Santa Marta,+34902 84 54 03,CE,2193872757
+Rosendo Peral,64,Ibagué,+34847 71 07 89,CC,1797647811
+Fidela Verdú Bernal,20,Manizales,+34 828328865,CE,1628548123
+Martin Grau Torrents,50,Manizales,+34 944674154,CE,2605232099
+Florencio Pou Bas,31,Neiva,+34822 11 14 02,TI,6033305329
+Almudena Molins Heredia,51,Bucaramanga,+34 902 15 09 04,CE,9306242652
+Máximo Amaro Cerdá Diego,35,Cartagena,+34 865 51 60 46,CC,5641929242
+Jenny Cárdenas Ballester,44,Neiva,+34825 56 46 60,CC,1387916160
+Pedro Cantón,34,Villavicencio,+34 844 22 42 15,TI,8443201119
+Débora del Sobrino,19,Montería,+34 987790667,CE,4088252557
+David Lamas Gutiérrez,66,Cali,+34 949 367 348,TI,7205692724
+Fabián Blasco Valbuena,51,Manizales,+34982 549 039,CC,1761195103
+Saturnino Parejo-Higueras,35,Montería,+34 853085117,CE,4620345180
+Saturnino Riquelme,80,Barranquilla,+34713 97 93 19,TI,5949666176
+Aroa Aguiló Plaza,20,Pasto,+34872419989,TI,8876469371
+Albino Moraleda Cerezo,80,Barranquilla,+34945 50 65 84,TI,989380200
+Adelardo Montalbán Real,65,Bucaramanga,+34 828 42 44 20,TI,613350113
+Claudio Bermúdez Morante,68,Cartagena,+34977779180,CE,759607807
+Leocadio Juan Antonio Quesada Baena,55,Santa Marta,+34866 507 986,TI,433179555
+Adela Bernat Cantero,26,Santa Marta,+34881856436,CC,3178580755
+Narciso Francisco Alba,77,Medellín,+34878 98 16 03,CE,9774868978
+Fulgencio Caparrós Plaza,74,Montería,+34 800 28 85 83,TI,998393197
+Jonatan Cañizares Nicolás,55,Cali,+34887 05 43 58,CE,2340682727
+Paola Machado Porta,40,Barranquilla,+34 925 03 08 08,TI,5894568908
+Xavier Mendoza Abella,50,Villavicencio,+34 881 630 790,TI,8417098209
+Juanita Alsina Tejera,23,Bogotá,+34 721 034 109,CE,2109045893
+Jordana Pina Valera,52,Medellín,+34820 096 169,CE,2075429344
+Loida Piquer Zapata,45,Bucaramanga,+34928797667,CE,8016573097
+Verónica Palomar Guerrero,78,Medellín,+34 921934165,TI,258590554
+Tamara Cal-Rocha,43,Montería,+34 948 93 87 53,CC,5778296089
+Merche Carrera Roldán,51,Villavicencio,+34 949 201 445,CE,3043571378
+Carla Fernandez Carlos,76,Ibagué,+34 946 908 116,CC,3732397467
+Antonia Pedrosa Coca,18,Medellín,+34 824622270,CE,2611330764
+Cecilio Palau Echeverría,32,Santa Marta,+34841 47 91 50,CC,8806972239
+Constanza Prat,62,Pasto,+34 986 03 72 97,CE,8523882152
+Nuria de Riba,50,Manizales,+34 744 09 03 03,CC,401941266
+Ana Belén Moliner-Sebastián,67,Pereira,+34885 08 87 54,CC,9894994775
+Milagros Garmendia Asenjo,56,Neiva,+34 883 170 273,CE,5074052785
+Isaías del Cózar,24,Santa Marta,+34 848 94 69 73,CE,3612829884
+Rafael Bárcena Murcia,19,Medellín,+34 976 63 69 24,CE,732831262
+Ani Vargas Cerdá,52,Montería,+34 943024166,TI,9078345749
+Constanza Arregui Mariño,67,Neiva,+34 973 32 72 46,TI,8124859018
+Jose Ramón Machado,22,Cartagena,+34 721 23 09 47,CE,6405549435
+Olalla Almeida Maldonado,67,Medellín,+34881 857 987,CC,3277536644
+Bonifacio Gómez Tolosa,37,Villavicencio,+34806052268,TI,2151756604
+Lino Calvet Escudero,65,Pereira,+34 832 367 369,CE,5827878896
+Cándida Fernanda Blanca Baeza,67,Montería,+34972 40 83 31,CE,2889227399
+Antonia Vanesa Huguet Ledesma,40,Barranquilla,+34 978662153,CE,6042224468
+Jorge Cervera Alberola,44,Montería,+34 845 84 70 45,CE,917737444
+Clímaco Cerro Río,18,Pasto,+34 902 18 48 39,CE,5641472955
+Ismael Murcia Carpio,44,Neiva,+34 873 761 132,CC,5261364593
+Feliciana Torrecilla Olmedo,21,Ibagué,+34 961 814 604,CE,6893727606
+Santos Palmer Almagro,79,Cali,+34 839416851,TI,4311760566
+Vilma Sarmiento Torralba,35,Barranquilla,+34 881962614,CE,9306192866
+Aarón Pont-Cerezo,49,Montería,+34 985383683,CC,1208922575
+Tania de Porras,34,Pereira,+34 949 90 00 76,CE,3418089014
+Marc Saura Duran,52,Manizales,+34 842 16 37 48,CE,2380895144
+Nazaret Jerez Osorio,55,Ibagué,+34823 26 66 45,CC,8917938934
+Eloísa Azorin Valbuena,37,Villavicencio,+34928432211,TI,7187095801
+Leonardo Escrivá Ochoa,31,Barranquilla,+34 957666184,CC,2237435351
+Eusebia Valenciano Anguita,39,Bucaramanga,+34988261860,TI,5353555163
+Pía Carrera Castelló,55,Ibagué,+34 844 746 623,CE,6676226326
+Sabas Ojeda Márquez,18,Manizales,+34877 611 573,CC,8644564103
+Eloísa Soto Bosch,68,Villavicencio,+34844496872,CE,9111789385
+Amor Barceló Aguiló,71,Santa Marta,+34 872 210 898,TI,4166006439
+Claudia Agudo Pintor,41,Villavicencio,+34925370214,CC,1857916668
+Hernán Juliá-Nicolás,39,Cartagena,+34 849 404 037,CC,2138665560
+Alma Márquez Vargas,56,Bucaramanga,+34 743395856,CC,3225124838
+Loreto Gonzalez-Santamaria,48,Pasto,+34878 433 598,CE,4791625570
+Reynaldo Zabala-Daza,65,Cúcuta,+34 822 867 033,CC,2909782933
+Alejandra Paniagua Bernat,61,Villavicencio,+34 876754963,CE,7742115858
+Edgardo Cantero Bernal,35,Pasto,+34835 445 709,CC,5227771167
+Nacio Lumbreras Sandoval,33,Montería,+34 842 816 639,TI,8411907123
+Ximena García Escalona,76,Pasto,+34926 17 11 28,CE,5476264304
+Rosa María Coloma,78,Bogotá,+34 841 85 73 77,CE,9267442753
+Encarnita Odalis Ruano Asensio,31,Pasto,+34 825 071 343,CE,2510731010
+Horacio Iriarte Barroso,46,Bucaramanga,+34948543095,TI,849191379
+Nando Barco-Carro,68,Neiva,+34987 562 256,CC,2730186078
+Natanael Ripoll Jover,30,Ibagué,+34 846 189 689,CC,3485516986
+Marisol Griselda Noriega Domínguez,68,Montería,+34983 881 576,TI,8385479465
+Rómulo Carmelo Girona Baquero,64,Villavicencio,+34 875 062 812,CC,6634486690
+Cloe Alcántara Antón,60,Ibagué,+34826 12 73 07,CE,7378035834
+Nuria Luisina Alsina Pi,57,Bucaramanga,+34884 22 84 04,CC,5851541602
+Manuel Armengol Grande,57,Manizales,+34902 409 951,CE,7365370638
+Julieta Azahar Aguado Cabo,48,Cúcuta,+34 716 87 84 58,TI,3373963097
+Inés Reig Contreras,78,Bogotá,+34 922 31 54 97,TI,394162681
+Bernardino Adán,46,Bucaramanga,+34 844 88 08 90,CC,2122082138
+Mayte Ortega Marqués,34,Medellín,+34920 004 116,TI,5260428595
+Marianela Barriga Durán,30,Cartagena,+34 982 83 53 26,CE,8094244268
+Chuy Mateos Ortuño,25,Pereira,+34949 249 582,TI,9450882136
+Cristian del Querol,43,Bogotá,+34 976 884 159,TI,1149255397
+Zacarías del Jurado,64,Pereira,+34847 46 12 05,CE,2696823724
+Lupe Plana-Ibáñez,57,Bucaramanga,+34972 447 682,CE,9923316811
+José Mari Luís Azcona,35,Pereira,+34 847 82 65 72,TI,4364353882
+Manuel Robledo Blazquez,22,Cali,+34 876306488,TI,4938883070
+Priscila Gordillo Fuente,57,Pereira,+34733140121,CE,6213162571
+Valentina Soto Riba,33,Cartagena,+34 871615187,CC,9451616783
+Loida Benítez Benítez,52,Neiva,+34 872605840,TI,3908385092
+Cristian Porcel Cañete,32,Villavicencio,+34 701 83 08 19,CE,7665876336
+Rosalina Riera Navarro,75,Villavicencio,+34 979 350 251,TI,1955723457
+Sandra Peiró,32,Ibagué,+34 972 24 68 58,CE,570587492
+Augusto Vallejo-Barriga,43,Pasto,+34976282513,CE,4305580718
+Azahara Zorrilla Roldan,23,Cali,+34 900299052,CC,6514404936
+Jordi del Peral,23,Santa Marta,+34 848 44 73 24,CE,1758099959
+Eutropio Roma-Moles,37,Neiva,+34974 53 85 38,CE,3838936674
+Guadalupe Segovia,41,Pasto,+34 821858684,CE,2514814491
+Wálter Cabo Sedano,42,Villavicencio,+34706 73 25 40,CC,7444496485
+Cristian Perelló Morillo,70,Villavicencio,+34926035530,CC,5811391258
+David Luís Márquez Huertas,73,Villavicencio,+34945 754 427,CC,7367051647
+Paz Botella,46,Pereira,+34 823 471 440,CC,1283321696
+María Dolores Arnal Sanmartín,52,Medellín,+34 871 612 899,TI,1893082971
+Olivia Emelina Sastre Pou,60,Cartagena,+34872 55 13 04,CC,5602735294
+Irene Alfaro Alemán,80,Bogotá,+34 848347665,TI,6019389397
+Galo Macario Porta Esteve,32,Cartagena,+34848 581 246,TI,6057834265
+Ulises Rivera Gámez,31,Villavicencio,+34 815958103,TI,732705322
+Benito Puerta Mascaró,67,Barranquilla,+34 973 186 691,TI,3568134483
+Quirino del Murcia,33,Manizales,+34 737117942,CE,6260654660
+Silvio Iglesia Montalbán,67,Neiva,+34 972 433 209,TI,8235673190
+Rufino Pulido Pérez,69,Cartagena,+34 985869100,CE,4154585994
+Desiderio Villar-Noguera,52,Cúcuta,+34 820 768 340,TI,1342596275
+Pablo Carbonell Calatayud,37,Pasto,+34 943 74 02 34,CE,3940981784
+Jose Francisco Barreda Jara,28,Bucaramanga,+34807182763,CC,213447691
+Cloe Briones Noriega,33,Pasto,+34878 39 96 62,TI,9805131963
+Isabel Álvarez Donoso,67,Cartagena,+34 980 29 45 25,CE,4912236683
+Luciana Felicia Lasa Miguel,62,Manizales,+34872394648,CC,8432862651
+Santiago Iriarte Alberto,53,Ibagué,+34 877 72 33 83,CC,7963003360
+Odalys Aller Sanmartín,50,Cúcuta,+34922623600,CE,2620908865
+Amanda Bas Feijoo,28,Medellín,+34 807 242 082,CE,6300167387
+Claudia Escudero Pinedo,48,Montería,+34973530102,CE,2407558782
+Néstor Ochoa Pastor,64,Pasto,+34828 852 552,TI,9620361398
+Natanael del Ballesteros,27,Medellín,+34980 54 03 71,CC,9819556728
+África Aguilera Barrera,52,Neiva,+34849 43 22 57,TI,2228572059
+Eulalia Blanco Aragonés,30,Villavicencio,+34803 83 17 20,CE,7950143348
+Hector Robles-Montoya,70,Manizales,+34845925107,CC,2811479554
+Verónica Losa Tejedor,43,Cali,+34879 650 539,CC,7391296058
+Íngrid Arce,41,Medellín,+34944 845 820,CC,6827598866
+Manola Angelita Doménech Matas,70,Pereira,+34 863980640,TI,667910243
+Rosendo Andrés Arranz,37,Pereira,+34887588052,CC,7348766887
+Marcio Ortuño Giralt,30,Manizales,+34 827 96 02 48,CE,4581182931
+María Carmen Benet Rueda,57,Villavicencio,+34 982 030 372,CC,1111590672
+María Dolores Manuel-Ferrando,58,Montería,+34806045666,CE,8266694728
+Cintia Mata Miranda,53,Manizales,+34 847 51 84 83,TI,9355310911
+Rico Berenguer Laguna,45,Bucaramanga,+34 941 566 477,CE,592840239
+Otilia Carlos-Múñiz,75,Santa Marta,+34923321445,CE,2254075398
+Nayara Pinilla Torres,31,Pasto,+34822078003,CE,3086408584
+Celestino Julián Egea Raya,23,Bucaramanga,+34 978 022 441,CC,9185034208
+Segismundo Valdés Terrón,29,Bucaramanga,+34800 041 044,TI,4102676120
+Etelvina Carretero Valcárcel,20,Montería,+34 887 07 07 28,CE,7904489258
+Dani Toni Alcaraz Serra,77,Bucaramanga,+34884 901 677,CC,9285670499
+Ruben Cerezo Diéguez,41,Bogotá,+34973281074,CE,5217752690
+Leandra Adadia,49,Cúcuta,+34 717645124,CE,8126409643
+Juan Luis Martín Valenciano,39,Neiva,+34844 542 330,CC,1727148544
+Javiera Frutos Barba,77,Bogotá,+34841603082,CC,117835242
+Amor Teresa Tirado Mur,78,Montería,+34 881 07 79 24,CC,5477995731
+Anselma Salvà Olivé,52,Manizales,+34828838650,CC,9339953403
+Eligia Vilar Barriga,30,Cúcuta,+34883 90 27 52,CC,1263906799
+Pepita Ainoa Talavera Recio,30,Pasto,+34 946 135 780,CE,7947873325
+Lara Cabello Diego,73,Bogotá,+34983 802 497,TI,4834412561
+Micaela Juliá Díaz,30,Cali,+34 888568820,CE,9593847104
+Álvaro Hoz-Peñalver,42,Barranquilla,+34 878 331 422,CE,8249281790
+Paula Puente Garmendia,80,Cali,+34844 300 675,TI,6805785980
+Lilia Coll Borrell,29,Montería,+34 985 74 84 02,CC,7984779502
+Bienvenida Rodriguez,30,Bogotá,+34847694062,CC,524180557
+María Teresa Quevedo Nicolás,51,Cúcuta,+34948 218 975,CC,4514692418
+Emiliano Pinto Sureda,34,Ibagué,+34 872 98 88 06,CC,6009165978
+Diego Barco Cardona,79,Cartagena,+34 747 221 602,CE,629731151
+Herminio Folch Jordá,39,Pereira,+34927 852 967,CC,7311653432
+Samuel Barroso Coronado,34,Bogotá,+34941183818,TI,2453287519
+Nadia de Cepeda,26,Medellín,+34717 937 042,TI,6516247115
+Reinaldo Roura-Pedrosa,46,Manizales,+34 738 944 972,CE,6267746152
+Dominga Redondo Escolano,44,Montería,+34927 14 04 72,TI,9114596969
+Bernardo Caparrós Teruel,77,Manizales,+34 878798581,CC,4980730655
+Susanita de Castejón,65,Medellín,+34948 36 95 33,CE,1569438409
+Valentín Valenzuela Alegria,36,Cali,+34939 33 58 84,CC,3477640315
+María Jesús Cortes Arjona,26,Barranquilla,+34927 486 098,CC,6836765397
+Leonardo Vélez,66,Pasto,+34881 386 476,CC,2036628927
+Olalla Salom Goñi,36,Bucaramanga,+34 847 26 27 13,TI,3654672974
+Mónica Ortiz Echevarría,43,Ibagué,+34879 448 589,CE,700032810
+Ainoa Mercader Sans,51,Cúcuta,+34820236177,CE,4498416701
+Manu Aguilar Olmo,55,Bogotá,+34800 449 071,CE,3977984753
+Lázaro Prieto Alcalde,22,Santa Marta,+34954 45 17 57,CE,7891427689
+Florentino Ruano,79,Ibagué,+34 980 49 43 74,CE,8725158229
+Angelina Reyna Arnal Girón,78,Pasto,+34 803 97 35 74,TI,6616110339
+Ascensión Manzanares Ferrán,20,Bucaramanga,+34826 31 34 23,CC,7467221673
+Fortunato Pou Estévez,31,Santa Marta,+34979343175,TI,976357151
+Jimena Catalán Ibañez,36,Montería,+34985 45 31 34,CE,5357004564
+Ascensión Dávila Valderrama,40,Manizales,+34 949 47 28 83,CE,119734730
+Felipe del Alfaro,67,Montería,+34 923 94 06 67,TI,9970499413
+Máxima Montserrat Melero Bou,47,Bogotá,+34849272066,TI,4472583117
+Elvira Sarita Pazos Múñiz,35,Ibagué,+34946162199,TI,825982688
+Delfina Casandra Beltrán Cuenca,78,Ibagué,+34920 73 14 97,TI,3548311081
+Obdulia Gil Manrique,32,Cartagena,+34 842961816,CC,3957839165
+Herminio Carrillo,43,Pasto,+34 881 03 49 71,CE,8176561906
+María Pilar Sanabria-Ferrández,59,Manizales,+34 876 44 26 45,TI,9578623957
+Gisela Carnero Bustamante,51,Ibagué,+34 934091734,CE,1602351367
+Segismundo Bou-Cuervo,72,Neiva,+34 976 545 295,CE,8519381138
+Imelda Estévez-Julián,27,Montería,+34843592742,CE,855318748
+Angelita Trujillo,20,Cali,+34 947390520,CE,8544733078
+Hilda Sanabria Segarra,53,Ibagué,+34873 80 45 31,CC,5809946757
+Rogelio Trillo Querol,68,Neiva,+34633 405 621,TI,5084966006
+Susanita Aguirre Batalla,59,Pasto,+34849 467 512,CE,2395191822
+Lupe Folch Alba,25,Manizales,+34843 31 66 37,TI,7142528055
+Ernesto Fuente-Tomé,22,Bogotá,+34 824115611,CC,1418421263
+Efraín Alegre-Manrique,67,Cúcuta,+34883 633 413,TI,2141849581
+Edu Córdoba Martín,55,Cartagena,+34 944026529,CC,8241437079
+María Teresa Pellicer Borja,26,Cartagena,+34824 273 802,CC,2796419582
+Mauricio Goyo Hervás Castells,75,Medellín,+34 844751786,TI,659443441
+Alberto Camps Cerro,64,Cali,+34 841 44 68 49,TI,2964514945
+Celestina Ariño Cerro,70,Cartagena,+34 980 95 39 64,CE,5070566803
+Marcelino del Amaya,38,Manizales,+34843144725,CE,7290360223
+Abel Guardia Mosquera,21,Bucaramanga,+34946694185,TI,288977409
+Silvestre Jove-Ferrández,59,Cartagena,+34744 83 27 30,TI,8469381801
+Eva Fábregas Romero,28,Ibagué,+34946571605,CE,5160769130
+Felisa Saura Vaquero,26,Montería,+34924 264 978,CC,7865735154
+Luis Miguel Águila Garay,44,Santa Marta,+34 815860992,TI,9662434428
+Cristina Milagros Godoy Carvajal,44,Pasto,+34 984 46 78 85,CC,1355108616
+Fortunata Alfonso Tejero,49,Barranquilla,+34 886 107 214,TI,354919362
+Marco Reyes-Amaya,50,Villavicencio,+34 807 76 93 95,CC,7663086668
+Dan de Alarcón,80,Cúcuta,+34820 250 052,CE,9886410930
+Cintia Montoya-Cañete,72,Cúcuta,+34 803 660 913,CC,8211204139
+Fernando Baquero Mateu,60,Cali,+34 844 01 98 90,TI,2966325147
+Alejo de Cáceres,72,Cúcuta,+34839 237 862,CC,3507646655
+Alejandra Emiliana Esteban Acevedo,67,Medellín,+34 831159159,CC,9101830291
+Pancho Alcaraz Águila,57,Bucaramanga,+34977 88 50 15,CE,3868157091
+Diego González Villena,55,Cartagena,+34 822 444 110,CC,9681236009
+Gaspar Trujillo Nuñez,34,Neiva,+34884 13 46 85,CC,7384578335
+Cristian Ovidio Varela Esteban,69,Neiva,+34701305980,CC,3383874208
+Fabricio Cantón Piquer,59,Barranquilla,+34971 410 247,TI,1801969798
+Bernardo Saez Canals,66,Cartagena,+34985 765 879,CE,9686087975
+Hector de Menendez,54,Pereira,+34 986130074,CE,3788266167
+Enrique del Ricart,27,Bogotá,+34911683511,TI,2988894179
+Elisabet Llopis Quintero,48,Ibagué,+34 974400399,CC,2859177532
+Lupita Páez,33,Bogotá,+34848 255 870,CC,2127357605
+Yago Pozuelo Segarra,78,Cali,+34 988 442 112,CC,3940562692
+Sara Sáez Santamaria,38,Cúcuta,+34 980482330,CE,8474313109
+Salud Barón-Almagro,73,Bucaramanga,+34824 757 850,CE,1343764155
+Vera Iñiguez Ruano,74,Montería,+34820 200 239,CC,2105468632
+Jenny del Cerdá,60,Cali,+34968 95 60 60,TI,7217132048
+Tecla Garriga Royo,71,Manizales,+34986 34 96 81,CE,6230074367
+Erasmo Guzmán Aliaga,59,Barranquilla,+34 842478580,CC,2515488595
+Severiano Valenciano León,35,Ibagué,+34961 879 092,TI,8368138442
+Herminia Mariño,23,Santa Marta,+34847 370 278,TI,7826870347
+Sebastián Boix Cabo,59,Villavicencio,+34820 901 538,CC,8580256233
+Aura Guitart Torrijos,78,Montería,+34971 88 80 21,TI,8388031301
+Cebrián del León,20,Medellín,+34 947 096 922,CE,5445697136
+Hernando del Muro,53,Cartagena,+34821 16 42 96,CE,6664521597
+Maura Bermudez,78,Cartagena,+34 826 632 618,CE,8133277926
+Soraya del Corral,72,Cartagena,+34876658764,TI,5658627724
+Ciro Casas-Ibáñez,70,Medellín,+34973 213 474,TI,2505074725
+Herberto de Vazquez,24,Santa Marta,+34 928 147 476,CE,343760665
+Valerio Agudo,60,Ibagué,+34980571812,TI,8750408030
+Merche Valenzuela Leal,79,Montería,+34885 95 24 88,CE,8680096422
+José Sánchez Girón,50,Cúcuta,+34 882 34 46 43,CE,2256474567
+Paca Pulido Catalán,55,Bucaramanga,+34 928 32 48 78,CE,2483513321
+Berta de Ribes,40,Pereira,+34 824 935 829,TI,563087648
+Danilo Mercader,61,Cali,+34987 803 432,CC,4070923120
+Juana Murillo Bou,49,Ibagué,+34921 80 99 54,TI,9008992004
+Evelia Noriega-Alemany,56,Santa Marta,+34 975 590 042,CC,7780955293
+Febe José Terrón Macías,61,Montería,+34976571767,TI,650548862
+Florinda Lucía Olivé Gisbert,51,Pasto,+34 700789667,TI,5228366865
+Elías Cañellas,19,Ibagué,+34 987 415 958,TI,7489242885
+Lupe Lladó Saura,67,Villavicencio,+34 985 067 418,CE,1858853363
+Severino Pallarès Miguel,57,Barranquilla,+34976 813 314,TI,7349955172
+Claudia Odalys Anaya Macias,33,Pereira,+34 825862603,CC,3377106376
+Isidora Carrión Bermejo,56,Medellín,+34986 417 219,TI,2662522256
+Lorena Nadal Miralles,77,Medellín,+34 849596809,CC,7302774568
+Jose Manuel Galván Azorin,37,Cali,+34849595871,TI,3663133401
+Edgardo Burgos,76,Cali,+34947 583 093,CE,6000117713
+Marcela Guerrero Marí,25,Neiva,+34 946 98 54 52,CE,5844281592
+Malena Roselló Tovar,51,Barranquilla,+34830865582,CE,7248471308
+Selena Alvarado Valero,57,Cali,+34881 125 146,TI,8583455573
+Eulalia Grande Gilabert,52,Pereira,+34 944 13 35 87,TI,8916726080
+Ema Macarena Lamas Pozo,79,Bucaramanga,+34 901832517,TI,1393497254
+Rufina Verdejo Diéguez,23,Santa Marta,+34 974 051 908,TI,2235456658
+Hernán Pavón-Escudero,20,Manizales,+34 888 434 752,CC,8923157282
+Graciana Escamilla Carvajal,74,Pasto,+34920 509 268,TI,2775104194
+Roldán de Barco,21,Bogotá,+34 803859837,CC,5223789708
+Enrique Catalá Segarra,18,Neiva,+34946186159,CE,1124454261
+Amaya Sáez Palomino,74,Bucaramanga,+34 826 43 10 19,CE,427676810
+Fortunato Luna,26,Pasto,+34926 911 920,TI,2277890741
+Jaime Cañizares Araujo,63,Bogotá,+34 709263391,CE,3522134343
+Andrés Felipe Escalona,23,Ibagué,+34945 586 827,CE,5611145455
+Calixto Ledesma Galán,18,Neiva,+34803475548,CC,4337839707
+Adelina Roca-Catalán,28,Neiva,+34 942 166 874,CE,2299141678
+Diego Emiliano Salmerón Toro,69,Montería,+34849 755 731,CE,1604129970
+Marisa Moll Campillo,77,Neiva,+34871 798 952,CC,8913035698
+Federico Urbano Jaén Alonso,38,Santa Marta,+34 824 55 34 25,TI,7028845421
+Albina de Roman,40,Montería,+34920 90 93 16,CC,3030823441
+Miguel de Soto,18,Cali,+34 982 10 42 60,CE,2292899542
+Juan Luis Lucena-Moliner,80,Bogotá,+34949364453,CC,2275232936
+Matilde Saura Tenorio,27,Montería,+34942 676 422,CE,1770521797
+Manolo Joel Cózar Arenas,58,Ibagué,+34875 08 67 05,CE,6090636912
+Marc del Soria,30,Cúcuta,+34823 93 34 08,CC,2240681115
+Pili Custodia Roig Gomila,55,Neiva,+34941 51 94 03,CE,7117520824
+Celestino Araujo Martínez,64,Villavicencio,+34 922058351,CC,8176738600
+Perlita Baeza Torrents,70,Cartagena,+34 948 89 12 39,CE,7226911448
+Édgar de Ferrer,52,Cartagena,+34 873 84 81 20,TI,6613970404
+Edelmiro Isidoro Lillo Guzman,68,Pereira,+34942693992,CE,7728692617
+Alfredo de Conesa,61,Cali,+34 986300948,TI,4438270969
+Jafet Muro Medina,64,Ibagué,+34 887 344 751,CC,4466589840
+Che Peiró Mate,73,Cúcuta,+34 810 477 106,TI,40353220
+Adolfo Albano Puente Quesada,79,Pasto,+34979 551 966,CC,6117472645
+Marcela Heredia Ferrero,77,Bucaramanga,+34925 13 31 08,TI,5311535472
+Amílcar Zamorano Gibert,56,Cartagena,+34 883 084 236,TI,4536667175
+Rosa María Roselló Robledo,53,Cúcuta,+34 977 747 358,TI,4138147370
+Fernanda del Santiago,21,Barranquilla,+34944921639,CC,4435955434
+Nadia Esparza Coloma,22,Cali,+34876 88 11 52,TI,8173820175
+Matilde de Paz,26,Manizales,+34 828293484,TI,1493093490
+Fermín Gilabert Feijoo,43,Bucaramanga,+34 925287688,TI,4483591144
+Ambrosio Ibarra Requena,67,Pasto,+34 873937066,TI,7369686748
+Celia Julián Criado,45,Medellín,+34 925011602,TI,8948412813
+Edelmiro Aparicio-Bilbao,22,Bogotá,+34955 144 059,CE,2585372097
+Edelmira Gálvez Diéguez,31,Villavicencio,+34885144148,CC,9784515258
+Edgardo Pina Tur,54,Montería,+34842 799 114,CC,7368942488
+Geraldo del Oliva,37,Manizales,+34849 634 944,CC,1035360665
+Santiago de Posada,55,Cartagena,+34821 176 662,CE,477244399
+Máximo Amador Gonzalo,75,Medellín,+34985 01 69 38,CE,9341866766
+Francisco Jose Velázquez Benavente,40,Ibagué,+34707 05 87 33,CE,4051310432
+Daniel Blasco,21,Cali,+34921 08 14 24,CE,4327066832
+Vito Ribas Aguilar,79,Santa Marta,+34947 04 84 14,TI,9104725654
+Rosario Mir Exposito,65,Cúcuta,+34 810 147 841,CE,8474833297
+Nando Malo Ayllón,66,Manizales,+34 842 28 55 30,CC,5194388855
+Wilfredo Lucena,61,Pasto,+34877 051 555,CC,4697126127
+Regina Inés Morán Ballesteros,20,Manizales,+34847 847 654,CE,8079807780
+Eufemia del Maestre,74,Neiva,+34646 59 17 51,TI,8713786864
+Natanael del Agullo,24,Cali,+34 821 39 02 15,CE,9928035952
+Ariel Meléndez Gómez,40,Santa Marta,+34 928144414,CC,6823713498
+Pastor Múgica-Soto,63,Medellín,+34 868840791,TI,8988853609
+Cándido Solana Piñeiro,21,Cali,+34722 32 82 19,TI,5742257930
+Margarita Rosselló-Alvarez,58,Bogotá,+34948 332 185,CE,6666448105
+Bernardino Cabo Ramirez,57,Santa Marta,+34 977 54 34 75,TI,8689804529
+Amparo Cuevas Revilla,64,Villavicencio,+34 926419715,CE,7186286673
+Amelia Vigil Cases,45,Ibagué,+34 887 247 103,CE,373230455
+Eugenio Ariel Quintanilla Bonet,63,Cartagena,+34825 796 652,CE,8967003966
+Marianela Guzman Francisco,41,Villavicencio,+34 679276228,CE,1171143696
+Blanca Alberto Medina,56,Bogotá,+34824510982,CE,9531834602
+Ambrosio Sáenz Mora,26,Cúcuta,+34 640729292,TI,8757259539
+Agapito del Tovar,50,Neiva,+34980663641,CE,1081281686
+Clara Bejarano Aramburu,55,Bucaramanga,+34807 996 726,CC,7814209588
+Jeremías Plana-Anglada,61,Medellín,+34 867671509,CC,8625453882
+Marco Rogelio Marcos Piñeiro,34,Pasto,+34941461112,CE,2100029961
+Marcelino Zurita Bustamante,35,Cúcuta,+34 965 581 444,CE,3216627051
+Joel Ariza Real,20,Montería,+34 843 862 661,TI,9350337007
+Juan José Asensio Casares,53,Cúcuta,+34842 838 310,TI,742563739
+Amaro Estévez Palma,77,Cúcuta,+34 981 64 38 38,CC,7796487826
+Martina Cuervo Bejarano,63,Ibagué,+34848 437 177,CC,7198421597
+Trinidad Ramis Vendrell,60,Pasto,+34943266933,TI,7804770418
+Elena Duque Romero,57,Pereira,+34825442307,TI,7716192572
+Jose Antonio del Pagès,45,Barranquilla,+34935571612,TI,4324622933
+Jerónimo Bonilla Carrillo,52,Medellín,+34922700893,TI,4822112927
+Candela del Pereira,44,Cali,+34 888 91 82 58,CE,1727296311
+Paco Navarrete Montoya,55,Neiva,+34 947 12 79 77,CC,8050561677
+Lola Laguna Cerro,61,Neiva,+34 872 280 573,CC,4498270645
+Catalina Fuente Madrid,49,Ibagué,+34926 60 91 17,CE,5715979837
+Tomás Pomares Figuerola,36,Bucaramanga,+34948 39 50 00,TI,8758881703
+Baldomero Llobet-Pino,19,Cali,+34 820 895 844,CE,5532783299
+Florinda Eulalia Tello Esteve,19,Cúcuta,+34901 719 219,TI,7375744406
+Luis Jerez Cañizares,57,Pereira,+34848 87 92 33,CC,2807228430
+Gastón Sanmartín Badía,42,Villavicencio,+34841441624,CE,3704860900
+Sofía Priego,56,Cali,+34924712089,TI,7229157810
+Teresita Santos,41,Manizales,+34820 510 458,CC,5165986399
+Ricardo Cuervo Sierra,35,Montería,+34 841 60 06 28,CC,7871268142
+Celestina Ramírez,66,Montería,+34810 385 188,TI,5181794696
+Bruno Sanabria Alemán,70,Medellín,+34 743 50 75 39,CE,6695830491
+Noé Company Romero,46,Barranquilla,+34 887178417,CE,9634338413
+Armando del Salinas,73,Ibagué,+34 879 326 365,CE,4398787804
+Moreno Abad Maestre,32,Santa Marta,+34977 67 26 46,CE,9678454313
+Gregorio Borja-Casanovas,67,Cúcuta,+34 974 78 19 75,CE,6744372796
+Candelaria Sarita Raya Suarez,73,Villavicencio,+34976 07 39 78,TI,5320019615
+Verónica Baeza Mayo,73,Barranquilla,+34 971407779,TI,5915098151
+Selena Simó Manso,45,Villavicencio,+34 926428899,CC,8974731047
+Aarón Pozuelo Silva,23,Pereira,+34849 505 082,CC,2056064650
+Andrea Varela-Viña,65,Cartagena,+34 725790119,CE,759799294
+Nacio Esteban Matas,31,Cali,+34 924515806,CC,4590652244
+Vicente Heras Bayona,54,Villavicencio,+34828 33 25 07,CE,1614160116
+Rafaela Linares,78,Neiva,+34987 803 719,TI,4357672476
+Omar Ordóñez Montenegro,60,Ibagué,+34 921 50 45 99,CE,5903049183
+Salomé Cases Lasa,80,Pereira,+34 881 781 691,CE,1574605305
+Jacinta Mate,40,Bogotá,+34 824 273 255,CC,4211584203
+Guiomar del Murcia,25,Santa Marta,+34987 42 60 74,CE,1328995493
+Consuelo Martínez Narváez,42,Bogotá,+34747 65 92 02,CE,916640525
+Domitila Valenciano Noriega,34,Cúcuta,+34945 675 088,TI,3898150140
+Fátima Mateos Bartolomé,77,Montería,+34987 28 57 45,CC,6043258174
+Emiliana Barranco,27,Cartagena,+34 961 193 380,TI,7863201291
+Yago Calderon Oliver,79,Cúcuta,+34 822259151,CE,4227236714
+Bonifacio Piquer Gárate,31,Manizales,+34822418094,TI,5976645616
+Jose Antonio Dávila Pedrosa,76,Cartagena,+34875 006 899,CE,7206565807
+Rogelio Camacho Maestre,53,Pasto,+34 877 477 229,TI,5962759645
+Lola Comas-Sala,21,Montería,+34807344993,CE,4291317763
+Américo Toro Barriga,29,Pereira,+34 942 311 153,TI,8753621928
+Prudencio de Torrent,62,Ibagué,+34 941 222 703,CE,3511030293
+Édgar Pellicer Navas,32,Pereira,+34842 16 36 11,CC,151405255
+Abril Ramis Jimenez,34,Cartagena,+34 826182558,CE,25024347
+Mohamed Rocamora Marin,71,Pereira,+34828 991 315,CE,9992307415
+Domitila Busquets Marquez,37,Cúcuta,+34922 540 003,CC,8860470411
+Ileana Barceló Sáenz,80,Barranquilla,+34 726935851,TI,4977969581
+Gabino Prieto Portillo,62,Montería,+34 878 672 037,CC,547987946
+Agustina del Vega,76,Villavicencio,+34981 93 29 66,CE,1779370086
+Aroa Batlle Sabater,80,Neiva,+34945014044,TI,4809685364
+José María Jurado Sosa,51,Pereira,+34 925 43 91 27,CE,1744563764
+Luisina Isidora Mata Vicens,58,Pasto,+34806246014,CC,1809745546
+Fulgencio Montserrat Gabaldón,59,Pasto,+34 873766330,CE,1481563366
+Serafina Sosa-Martínez,79,Pereira,+34980 45 73 02,CC,5308170535
+Rocío Rubio Canales,38,Santa Marta,+34844906274,CE,6370651113
+Pablo Mauricio Narváez Expósito,63,Cúcuta,+34945 22 09 48,CE,5923154736
+África Porta Murcia,47,Ibagué,+34945207781,CE,7100520317
+Gabino Nadal Moliner,57,Cartagena,+34 883963542,CC,8928252919
+Glauco del Escamilla,58,Pasto,+34 825 47 39 50,CC,6157585399
+Valentín Gálvez Salamanca,21,Pereira,+34859 00 98 79,TI,3593216781
+Custodio Quesada-Marco,78,Ibagué,+34 944736924,TI,3072980664
+Maximiano de Juárez,37,Bogotá,+34988281619,CE,5637747319
+Aitana Franch Rozas,58,Cartagena,+34987683658,CC,5759435607
+Guadalupe Cervantes Landa,72,Montería,+34972959468,CE,8650355339
+Juan Antonio Hernández Canales,38,Pereira,+34974615350,CC,4707282813
+Adelia Nerea Serna Almeida,28,Pasto,+34 884 496 671,CC,1501278004
+Edelmiro Coll Seco,67,Cartagena,+34 879 22 09 07,TI,3428545068
+Raquel del Salvà,40,Medellín,+34945 346 514,CC,223972342
+Celia Cáceres Uriarte,78,Neiva,+34849 704 325,CE,2643500438
+Norberto Silva Giralt,63,Cali,+34 943 089 544,TI,9639421100
+Maricruz Pintor Goicoechea,68,Pereira,+34 732 04 41 45,TI,6906239750
+Odalis Delgado Mancebo,74,Montería,+34 882 76 16 22,CE,6059613191
+Juan Carlos Estévez Mora,51,Villavicencio,+34948330184,CC,5584072176
+Mayte Aroca Espinosa,36,Manizales,+34921 440 136,CC,7678707485
+Ale Jiménez Cabañas,67,Barranquilla,+34872 606 268,TI,6620535316
+Loreto Bilbao Anguita,80,Bogotá,+34984 33 91 12,CE,1305594722
+Javier Lucas Moraleda,35,Montería,+34 923149066,TI,979573702
+Eufemia Manuel Jove,51,Manizales,+34978 014 849,CC,1049641679
+Guiomar Palomino,74,Neiva,+34 841 85 50 23,CC,9605112133
+Jose Carlos Vergara Gonzalo,68,Pereira,+34 925 474 629,TI,7794963351
+Pánfilo Fonseca Real,56,Barranquilla,+34 828 33 31 45,CC,4348849932
+Lupe Flores Barreda,26,Villavicencio,+34926 556 413,CC,9367625402
+Zacarías Domínguez,65,Pereira,+34 986 826 456,CC,2751405735
+Germán Bernad Olivera,75,Santa Marta,+34983631968,TI,1625795664
+Eduardo Edu Landa Roldán,46,Pereira,+34 884 616 576,CC,8551543303
+Iker Arroyo Sancho,48,Santa Marta,+34 885 449 005,CE,8065149986
+Celia Lumbreras Mariño,28,Manizales,+34822 899 220,TI,5822549906
+Cesar Fábregas Morales,35,Bucaramanga,+34 846684430,CE,3287805994
+Laura Leal,71,Neiva,+34 971 86 84 99,CC,956986771
+Nydia Herminia Mariscal Garzón,40,Medellín,+34851606695,TI,901162913
+Corona Modesta Mosquera Acedo,65,Ibagué,+34 879 918 937,CC,2864647086
+Nuria del Alemany,79,Bucaramanga,+34979 274 784,CE,7745484911
+Irene Oliveras,70,Cali,+34876 98 19 19,TI,2944735148
+Asunción Garrido Benavides,50,Pereira,+34 985 829 453,TI,7817733243
+Rosa María Noriega Ferrández,53,Medellín,+34 910 45 70 46,CC,1198544087
+Eugenia Aura Linares Olivares,43,Cali,+34986 476 732,CC,1818457599
+Juan Luis Rosado Aguilar,30,Montería,+34843314721,CE,6968951261
+Valentina Julián,65,Santa Marta,+34 730559944,TI,9668856584
+Rico Boada Cabezas,70,Bucaramanga,+34982 77 80 60,CE,6058715869
+Vidal Benet-Verdejo,24,Bogotá,+34 719431394,CE,2843039382
+Isidoro de Priego,59,Medellín,+34887 58 13 25,CE,8866652029
+Lino Josué Cruz Torrents,57,Cúcuta,+34986 467 567,TI,9574672809
+Coral Bermudez Nogueira,28,Montería,+34 882969887,CC,5676896754
+Marisa Clavero Iglesia,66,Manizales,+34960 29 30 64,CC,781687195
+Haydée Matilde Vila Sainz,59,Barranquilla,+34880 338 481,CE,2338986738
+Julio Mesa Huguet,72,Bucaramanga,+34 967256679,CE,5245184906
+Abigaíl Castelló Cobo,35,Neiva,+34827 86 04 21,CE,5952687666
+Yéssica Galán Jaén,26,Bucaramanga,+34832405517,CE,9111453789
+Juan Pablo del Tormo,43,Cartagena,+34 980655819,CC,5875379523
+Sara Amalia Marti Lucas,45,Santa Marta,+34843 250 534,CE,1300522183
+Marcio Quirós-Mascaró,75,Cali,+34 971841620,TI,48924024
+Adalberto Pinilla,33,Montería,+34 885 29 94 17,CC,6293121377
+Angelino Santiago,57,Ibagué,+34806 172 232,CE,9387849014
+Jose Ramón Escribano Chaparro,76,Neiva,+34 844 464 494,TI,8493772150
+Úrsula Lucas Carballo,59,Montería,+34976832649,CC,4934057033
+Nando Criado Jiménez,28,Manizales,+34 873 26 15 33,TI,3656164838
+Leonel Vito Artigas Alcaraz,56,Montería,+34 711 812 442,TI,7714051335
+Araceli Jimenez,30,Cali,+34 807 360 705,CE,4567049968
+Rufino Mendizábal Jaume,58,Bucaramanga,+34943 456 710,CC,5085879788
+Jenaro Cárdenas Bustos,44,Santa Marta,+34 735280089,CC,2646106976
+Silvio Fábregas Coca,68,Pasto,+34 806 92 03 31,CC,1510869610
+Emiliana de Alberola,22,Pereira,+34 874896563,CE,5445462878
+Aitana Luque,32,Santa Marta,+34847 136 112,CC,6457317142
+Samuel Peiró Portillo,70,Manizales,+34 973 97 42 15,CC,9898364991
+Artemio Godofredo Villalonga Rico,28,Barranquilla,+34 868 28 93 50,TI,5830029609
+Mirta Cardona Sainz,57,Pasto,+34636 613 386,CE,2582752507
+Francisco Ojeda Miguel,66,Montería,+34 982 514 611,CC,3695438148
+Bautista Cobo Julián,24,Medellín,+34955586499,TI,4210133839
+Renato Arroyo,31,Bucaramanga,+34838 219 719,TI,9877331469
+Emperatriz Miguel Vicens,74,Villavicencio,+34 988849187,TI,5489038036
+Juan Antonio Mendizábal Buendía,48,Bogotá,+34 885760629,CE,1481159141
+Florencia del Terrón,73,Cali,+34 925 30 20 10,CC,9652141328
+Irene del Olivé,53,Medellín,+34 873 413 691,CE,9871661806
+Felisa Chaparro Lucena,40,Cúcuta,+34867 06 74 39,TI,4693652578
+Trinidad Cornejo,74,Santa Marta,+34945 705 931,TI,7242820482
+Eliseo Garcia-Solana,29,Barranquilla,+34 976 01 58 32,CE,3104123127
+Quirino Llano-Perea,33,Manizales,+34 803 490 421,TI,1099787833
+Marina Carretero Vera,25,Cartagena,+34 844761817,CE,3180132459
+Reyes Rubio-Melero,39,Medellín,+34807 427 905,TI,4178392720
+Amor Casals,42,Manizales,+34 714 96 79 16,TI,6400095124
+Carmelo Cañas Bárcena,41,Barranquilla,+34 807 27 54 15,CC,9025434122
+Poncio Dominguez,25,Cali,+34845 78 48 01,CE,3068058061
+Fidela del Llorente,44,Pasto,+34872 589 041,CC,2465201850
+Alicia Salinas Azcona,40,Bogotá,+34949789260,TI,8604642885
+Pancho Guerra Zorrilla,57,Barranquilla,+34 875971120,CE,4410351183
+Rosendo Escribano Rey,48,Cartagena,+34976 18 53 17,CC,3185287718
+Ana Pagès Roda,67,Medellín,+34726032369,TI,5891909550
+Ofelia Vergara Campillo,31,Cali,+34 944 73 50 21,CE,5896699113
+Wálter Jara Badía,59,Ibagué,+34924 57 24 89,TI,903902984
+Buenaventura del Falcó,46,Barranquilla,+34 986218114,TI,6447589142
+Paulino de Verdugo,26,Cartagena,+34847 58 05 75,CE,7534559751
+Rafaela Coca Cuervo,75,Barranquilla,+34938906498,TI,4669012404
+Natanael Asensio Zapata,53,Neiva,+34 845 25 13 28,CC,6414014764
+Asdrubal Félix Beltrán Martin,51,Cali,+34826 54 30 20,TI,9225694397
+Crescencia Balaguer Antón,51,Bogotá,+34976 268 679,CE,2871725535
+Casemiro Samuel Tudela Juan,23,Pasto,+34 842 11 06 06,TI,633247336
+Fidela Arcos Pintor,18,Pasto,+34 846 24 71 42,CE,3211130567
+Cristian Gomez-Garay,42,Neiva,+34873196927,CE,5604883996
+Toni Barceló Vilar,38,Bogotá,+34871 838 563,CE,827328849
+Amor Vilalta-Frutos,41,Bucaramanga,+34 926 979 484,TI,8653125161
+Loreto Samper Pavón,23,Pereira,+34 947 70 97 45,CC,6212281773
+Juan José Sanz,75,Villavicencio,+34 816 141 433,CC,7551745832
+Francisco Jose Olmo-Dueñas,50,Barranquilla,+34 927 13 87 16,CC,360132506
+Amado Acuña,55,Barranquilla,+34822132144,CE,6222427487
+Juan Luis Barón Palomar,79,Manizales,+34 824 48 81 04,TI,25848563
+Ovidio Fabra Lorenzo,29,Cartagena,+34 941 685 046,TI,1660487106
+María Cortes-Seguí,40,Manizales,+34923046074,CE,7164084501
+Gustavo Ferreras Esteban,50,Bucaramanga,+34930 988 220,TI,6071228558
+Alma Alcázar Moraleda,60,Villavicencio,+34820 40 93 02,TI,4370757565
+Olga Pla Borrego,19,Montería,+34968 485 497,TI,3310258541
+Anna Aliaga,69,Ibagué,+34 872 335 427,CC,1891317682
+Rufino Segarra Espejo,25,Manizales,+34721 143 285,CC,6403061941
+Roxana Daza Baños,21,Medellín,+34 986753866,TI,7270572605
+Maximiliano Almagro,60,Bucaramanga,+34 973 61 14 58,CC,3768600588
+Carina Tolosa Torre,51,Barranquilla,+34 945 28 48 11,TI,9858047218
+Evaristo Gimeno Solano,25,Manizales,+34823 72 53 81,CE,9380330647
+Sarita Grau Barroso,65,Santa Marta,+34871 238 790,CC,3778196154
+Albert Maestre Sanmartín,40,Ibagué,+34948 59 11 33,CE,8384836935
+Camilo Yáñez-Mendizábal,33,Cúcuta,+34 841 800 479,CE,9064393596
+Esperanza Jimenez,23,Pasto,+34882 92 56 36,CC,4627809105
+Clotilde Manuel Pla,60,Cúcuta,+34 947313350,CE,752302703
+Seve Alba Guitart,29,Ibagué,+34 974131106,CC,971203876
+Eva Bou Múñiz,80,Bucaramanga,+34882 51 31 08,CC,5488879092
+Celia Manzanares-Calzada,74,Ibagué,+34 944486164,CE,820484356
+Asunción Tomé Tur,76,Medellín,+34880 48 47 89,TI,3980914800
+Anselmo Espejo,79,Medellín,+34978 21 62 03,CC,3348655405
+Samanta Morell Trujillo,67,Manizales,+34 977 113 702,CE,2299480775
+Angelina Larrañaga Bayo,68,Neiva,+34 820 785 106,CE,9455898261
+Gonzalo Ferrer Jaén,27,Neiva,+34 963 81 48 08,CE,2973902523
+Evaristo Noguera-Villalonga,49,Cartagena,+34 971 474 437,CE,827542134
+Geraldo Luis Nogués Viña,51,Bogotá,+34 971 94 94 17,CC,6265349653
+Teófila Jove Baquero,49,Cali,+34 922809375,CC,2719527340
+Cipriano Jordán Gárate,73,Montería,+34902 50 78 82,CE,8047806913
+Azucena Durán Vidal,57,Medellín,+34873 81 46 72,CC,6406497381
+Sergio Artemio Lledó Arias,52,Cali,+34 949 83 83 02,TI,9250657866
+Marta Barceló,22,Cartagena,+34872824888,CE,4759562167
+Paz Mayo Goicoechea,57,Bogotá,+34820011454,CC,1738400500
+Amarilis del Márquez,46,Cúcuta,+34 981 97 02 99,CE,2907861496
+Narcisa Estevez Peral,66,Montería,+34 842 565 697,TI,343814998
+Yaiza Alsina Diez,51,Ibagué,+34825 94 27 22,CC,3948334522
+Pelayo Villena Alcázar,29,Barranquilla,+34 948 267 901,TI,9787245414
+Etelvina Villanueva-Alonso,35,Pasto,+34 839943611,CC,2334031970
+Nazaret del Herrera,30,Santa Marta,+34 888126774,TI,400322276
+Fátima Custodia Barrena Lorenzo,42,Pasto,+34 730373592,TI,4590018618
+Paulina Feijoo Sabater,18,Bogotá,+34842 62 20 29,CC,5730579033
+Hilario Barros Alcázar,19,Montería,+34874 249 905,CC,8449523563
+Ulises Acedo,51,Cartagena,+34 984976939,CC,5192716504
+Celestino Castrillo Sandoval,46,Neiva,+34807851886,CC,8403449089
+Santiago Acevedo Vilalta,42,Medellín,+34822157674,CE,9149875811
+Venceslás Contreras-Cuesta,20,Ibagué,+34881043516,TI,5538999196
+Evelia Pedro López,50,Ibagué,+34713 766 111,TI,3228886948
+Juan Pablo Adadia Escalona,79,Bogotá,+34 820 362 427,CE,8386527591
+Belen Iriarte Agustín,43,Montería,+34 886 43 97 77,TI,8954918105
+Vilma Gaya Crespi,66,Pasto,+34939 329 882,CE,4668214977
+Luis Miguel Rodriguez Villalba,30,Santa Marta,+34720 92 60 95,TI,8799580339
+Ámbar Cobos-Cal,25,Bogotá,+34 848 839 557,TI,7205434379
+Leoncio Ezequiel Padilla Gaya,52,Villavicencio,+34 888 31 61 63,CE,6767913195
+María Ángeles Blanes Español,23,Medellín,+34 846 634 998,CC,6604011409
+Humberto Capdevila Gallardo,64,Pasto,+34 671 573 918,TI,805700871
+Alondra Segovia,55,Medellín,+34 983 12 91 16,CE,6553091242
+María Teresa Montoya Vila,42,Medellín,+34 973 334 556,CE,3297555900
+Flavio Campoy Romeu,54,Manizales,+34826507359,CC,5813284433
+Berta Guitart-Novoa,31,Neiva,+34 847769158,TI,786536728
+Teresita Alcázar Bermejo,29,Santa Marta,+34 886 478 076,CE,5728501177
+Leyre Revilla Simó,36,Santa Marta,+34979 699 659,CC,4517029217
+Daniela Ordóñez Cifuentes,21,Montería,+34 656935392,TI,5675891710
+Purificación Cárdenas Rosa,21,Ibagué,+34824 53 47 97,TI,5616818947
+Áurea López Ayllón,52,Neiva,+34887968989,CE,8262481124
+Julián Gerardo Báez Domínguez,55,Cúcuta,+34 866 025 515,CC,531864193
+Ildefonso Cervera Mateu,38,Neiva,+34 974 58 61 62,CC,1931141885
+Alejandro Cortés,72,Villavicencio,+34806021472,CE,6231038501
+Tito Meléndez Pol,79,Neiva,+34 841 647 714,CE,5630250739
+Coral de Iñiguez,32,Medellín,+34 820 04 62 27,TI,2510939322
+Delia Herranz Vigil,19,Medellín,+34927 57 28 77,CC,3533669884
+Hermenegildo Vara,57,Ibagué,+34901 954 866,CC,9292350648
+Jacinto Agustín,76,Bucaramanga,+34976 75 23 67,TI,4494721827
+Eva Font Carballo,59,Villavicencio,+34902 75 52 24,CE,4659953459
+Iván Sans,32,Montería,+34 944 409 122,CC,4264865278
+Mariano Tena Folch,42,Pasto,+34 888 946 668,TI,8735044053
+Flora Villar Ortiz,29,Cali,+34825 621 037,CC,7459590264
+Angelita Llamas Agustín,39,Bucaramanga,+34 827 241 851,TI,2210680365
+María Mir Linares,46,Bucaramanga,+34865 82 00 56,CC,8684019018
+Petrona Peláez Mir,36,Santa Marta,+34878609242,TI,6010931609
+Olga Solana Mir,37,Manizales,+34841 979 483,CE,4146834508
+Feliciano Cánovas-Espinosa,76,Medellín,+34 875 39 45 00,CE,1357984704
+Eustaquio Mariano Beltran Contreras,24,Barranquilla,+34723894565,TI,5066735314
+Mariana Chamorro Calvet,59,Pasto,+34 933 85 28 01,CE,3938153437
+Ale Cabañas Salazar,53,Pasto,+34 901 586 056,TI,5723902922
+Purificación Oliva Batalla,64,Manizales,+34873191786,CE,5722220447
+Plácido del Gárate,39,Montería,+34 983672811,CE,2817199474
+Filomena del Pedro,55,Bucaramanga,+34 879 020 296,CE,4225702109
+Gil Beltrán,65,Barranquilla,+34881 696 666,CC,7491741089
+Gastón Conde Pablo,37,Ibagué,+34 736285595,CC,4475858477
+Eufemia Ayala Priego,30,Pasto,+34 879384237,TI,7242034821
+Marco Valenzuela,64,Pasto,+34971042097,CE,2822648222
+Amelia Bienvenida Serra Tirado,29,Villavicencio,+34807802708,TI,8694197496
+Ricarda Cánovas,38,Cali,+34 952 742 275,CC,1572407375
+Maura Iriarte Ferrando,67,Ibagué,+34877 67 42 18,TI,1218886088
+Mariano Aller,75,Villavicencio,+34875561948,CE,2271082115
+María Luisa Mateu Pedro,31,Bucaramanga,+34920 117 668,CC,7882544818
+Telmo Manuel Doménech,31,Montería,+34828 32 78 64,CC,9349965385
+Narciso Acedo Bauzà,51,Cartagena,+34 880552272,CE,6413037098
+Adelina Carmona,68,Neiva,+34 884383005,CE,8760715337
+Carlos Tolosa Manrique,33,Cali,+34 878 152 146,CC,1579392231
+Calisto Manzano,35,Cúcuta,+34 986 91 61 38,CE,9491870109
+Narcisa del Hernandez,20,Bogotá,+34 879 01 92 75,TI,9032922522
+Albina Roman,18,Manizales,+34 806537664,CC,6340466926
+Carmelita Flor,80,Bucaramanga,+34 925925699,TI,4418000423
+Genoveva Malo Gras,60,Cali,+34 876 271 266,CC,132512809
+Renato Peña Ortuño,73,Cúcuta,+34 843254041,CC,746214174
+Gil Gutiérrez Alba,51,Montería,+34 941 81 52 53,TI,6332979835
+Abel Guillermo Calderón Rebollo,26,Cúcuta,+34861 534 733,CC,3163419208
+Jaime Calleja Ordóñez,42,Bogotá,+34 826 110 151,CC,2554299243
+Godofredo Ferrera Cañellas,37,Manizales,+34878597548,TI,9046505709
+Valeria Alcaraz,34,Bogotá,+34927077775,TI,2972241431
+Roque España-Velázquez,68,Bogotá,+34803 251 654,CC,4194615335
+Luz Lillo Robles,46,Villavicencio,+34921214654,CE,437429292
+Dolores Lobato Manzanares,25,Neiva,+34 843 077 675,CC,7484047521
+Albina de Iñiguez,46,Montería,+34 877 43 11 56,TI,4291254988
+Natanael Gómez Checa,73,Cúcuta,+34707 141 074,CC,5215024221
+Áurea Yuste Palacios,63,Medellín,+34 975711504,CE,3089376535
+Carmelo Cerdán Ledesma,60,Cali,+34979903631,CE,6400446120
+Josefa Quintero Bermejo,33,Medellín,+34 746325420,TI,5751677989

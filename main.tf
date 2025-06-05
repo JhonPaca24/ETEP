@@ -10,7 +10,7 @@ resource "aws_s3_bucket" "pyspark_demo" {
 }
 
 resource "aws_s3_bucket" "pyspark_demo_target" {
-  bucket        = "target-pyspark-demo-bucket-jp" # Todo en minúsculas
+  bucket        = var.bucket_name_target
   force_destroy = true
 }
 
@@ -20,5 +20,13 @@ resource "aws_s3_object" "usuarios_csv" {
   key          = "input/usuarios.csv"
   source       = "./usuarios.csv"
   etag         = filemd5("./usuarios.csv")
+  content_type = "text/csv"
+}
+
+resource "aws_s3_object" "registros_colombia_csv"{
+  bucket       = aws_s3_bucket.pyspark_demo.bucket
+  key          = "input/registro_colombia_1000.csv"
+  source       = "./registro_colombia_1000.csv"
+  etag         = filemd5("./registro_colombia_1000.csv")
   content_type = "text/csv"
 }

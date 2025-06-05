@@ -25,6 +25,7 @@ dyf_usuarios = glueContext.create_dynamic_frame.from_catalog(
     table_name="input"  # Reemplaza si el nombre real es diferente
 )
 
+
 # 🔹 Convertir a DataFrame para procesar con PySpark
 df = dyf_usuarios.toDF()
 
