@@ -1,3 +1,7 @@
+variable "region"{
+  default = "us-east-1"
+}
+
 variable "aws_access_key_id" {
   description = "AWS Access Key ID"
   type        = string
@@ -10,7 +14,7 @@ variable "aws_secret_access_key" {
   sensitive   = true
 }
 variable "bucket_name" {
-  description = "bucketS3Pra1_jp"
+  description = "pyspark-demo-bucket-jp"
   type        = string
 }
 
