@@ -1,0 +1,34 @@
+import pandas as pd
+import random
+from faker import Faker
+
+# Crear instancia de Faker en español
+fake = Faker('es_ES')
+
+# Lista de ciudades colombianas
+ciudades_colombia = [
+    "Bogotá", "Medellín", "Cali", "Barranquilla", "Cartagena",
+    "Cúcuta", "Bucaramanga", "Pereira", "Santa Marta", "Manizales",
+    "Ibagué", "Villavicencio", "Neiva", "Pasto", "Montería"
+]
+
+# Tipos de identificación válidos
+tipos_identificacion = ["CC", "CE", "TI"]
+
+# Generar los datos
+data = {
+    "nombre": [fake.name() for _ in range(1000)],
+    "edad": [random.randint(18, 80) for _ in range(1000)],
+    "ciudad": [random.choice(ciudades_colombia) for _ in range(1000)],
+    "numero_telefono": [fake.phone_number() for _ in range(1000)],
+    "tipo_identificacion": [random.choice(tipos_identificacion) for _ in range(1000)],
+    "numero_identificacion": [random.randint(10000000, 9999999999) for _ in range(1000)],
+}
+
+# Crear DataFrame
+df = pd.DataFrame(data)
+
+# Guardar como CSV
+df.to_csv("registro_colombia_1000.csv", index=False)
+
+print("Archivo CSV generado exitosamente: registro_colombia_1000.csv")
