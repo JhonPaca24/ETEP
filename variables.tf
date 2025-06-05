@@ -18,3 +18,8 @@ variable "bucket_name" {
   type        = string
 }
 
+variable "bucket_name_target" {
+  description = "target-pyspark-demo-bucket-jp"
+  type        = string
+}
+

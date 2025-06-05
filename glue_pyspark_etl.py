@@ -1,34 +1,53 @@
-import findspark
-findspark.init()
-
-import boto3
-from pyspark.sql import SparkSession
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from awsglue.dynamicframe import DynamicFrame
 from pyspark.sql.functions import col, lit
 
-# Configura SparkSession
-spark = SparkSession.builder \
-    .appName("PySpark Glue Simulado") \
-    .getOrCreate()
+# 🔹 Obtener argumentos del job (necesario para Glue)
+args = getResolvedOptions(sys.argv, ['JOB_NAME'])
 
-# Leer CSV desde S3 (mismo nombre de bucket que en Terraform)
-s3_input_path = "s3a://pyspark-demo-bucket-jp/input/usuarios.csv"
+# 🔹 Crear contexto de Spark y Glue
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
 
-# Leer el archivo CSV
-df = spark.read.option("header", "true").csv(s3_input_path)
+# 🔹 Inicializar job
+job = Job(glueContext)
+job.init(args['JOB_NAME'], args)
 
-print("✅ Datos originales:")
-df.show()
+# 🔹 Leer datos desde Glue Catalog
+dyf_usuarios = glueContext.create_dynamic_frame.from_catalog(
+    database="data_spark_user_jp",
+    table_name="input"  # Reemplaza si el nombre real es diferente
+)
 
-# Transformaciones: filtro y nueva columna
-df_filtrado = df.filter(col("edad") > 30)
-df_agregado = df_filtrado.withColumn("pais", lit("Colombia"))
+# 🔹 Convertir a DataFrame para procesar con PySpark
+df = dyf_usuarios.toDF()
 
-print("✅ Datos filtrados:")
-df_agregado.show()
+# 🔹 Filtrar por edad > 30 y agregar columna 'pais'
+filtrados = df.filter(col("edad") > 30)
+agregado = filtrados.withColumn("pais", lit("Colombia"))
 
-# Guardar en S3 en formato Parquet
-output_path = "s3a://pyspark-demo-bucket-jp/output/usuarios_filtrados/"
-df_agregado.write.mode("overwrite").parquet(output_path)
+print("Datos filtrados:")
+agregado.show()
 
-print("✅ Transformación y escritura completa.")
+# 🔹 Convertir a DynamicFrame
+dyf = DynamicFrame.fromDF(agregado, glueContext, "dyf")
 
+# 🔹 Guardar resultado en S3 como Parquet
+output_path = "s3://pyspark-demo-bucket-jp/output/usuarios_filtrados/"
+glueContext.write_dynamic_frame.from_options(
+    frame=dyf,
+    connection_type="s3",
+    connection_options={"path": "s3://pyspark-demo-bucket-jp"},
+    format="parquet"
+)
+
+# 🔹 Finalizar job
+job.commit()
+
+print("✅ Transformación completa.")

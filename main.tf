@@ -9,6 +9,12 @@ resource "aws_s3_bucket" "pyspark_demo" {
   force_destroy = true
 }
 
+resource "aws_s3_bucket" "pyspark_demo_target" {
+  bucket        = "target-pyspark-demo-bucket-jp" # Todo en minúsculas
+  force_destroy = true
+}
+
+
 resource "aws_s3_object" "usuarios_csv" {
   bucket       = aws_s3_bucket.pyspark_demo.bucket
   key          = "input/usuarios.csv"
