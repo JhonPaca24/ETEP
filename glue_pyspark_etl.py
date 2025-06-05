@@ -43,7 +43,7 @@ output_path = "s3://pyspark-demo-bucket-jp/output/usuarios_filtrados/"
 glueContext.write_dynamic_frame.from_options(
     frame=dyf,
     connection_type="s3",
-    connection_options={"path": "s3://pyspark-demo-bucket-jp"},
+    connection_options={"path": "s3://target-pyspark-demo-bucket-jp"},
     format="parquet"
 )
 
